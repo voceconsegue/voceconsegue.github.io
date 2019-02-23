@@ -1396,16 +1396,17 @@ body {
 .cid-rizWwHhg56 H2 {
   color: #ffffff;
 }
-.cid-rizPi6uAZM {
+.cid-riQPGBO7cP {
   background: #22f127;
   padding-top: 60px;
   padding-bottom: 60px;
+  background: linear-gradient(0deg, #22f127, #22f127);
 }
-.cid-rizPi6uAZM .video-block {
+.cid-riQPGBO7cP .video-block {
   margin: auto;
 }
 @media (max-width: 768px) {
-  .cid-rizPi6uAZM .video-block {
+  .cid-riQPGBO7cP .video-block {
     width: 100% !important;
   }
 }
